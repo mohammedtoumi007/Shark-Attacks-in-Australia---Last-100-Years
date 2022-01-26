@@ -1,3 +1,4 @@
 # Shark-Attacks-in-Australia---Last-100-Years
 dashboard in spreadsheet
-![github-small](https://github.com/mohammedtoumi007/Shark-Attacks-in-Australia---Last-100-Years/issues/1#issue-1115034511)
+
+![Shark Attacks in Australia](https://user-images.githubusercontent.com/55878755/151175070-494590c3-a23a-4f64-a721-2fbb3756f8c8.png)
